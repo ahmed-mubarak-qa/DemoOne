@@ -6,9 +6,12 @@ public class GithubDemoTwo {
 		System.out.println("My first github commit....");
 		
 		System.out.println("test test");
+		addDemo();
 	}
 	
 	// add a code and shared with the team
+	public static void addDemo() {
+		System.out.println(1+2);
+	}
 	
-
 }
